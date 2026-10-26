@@ -1,0 +1,8 @@
+===== Source: supply-mypy.txt =====
+Success: no issues found in 8 source files
+
+
+
+===== Source: supply-ruff.txt =====
+All checks passed!
+

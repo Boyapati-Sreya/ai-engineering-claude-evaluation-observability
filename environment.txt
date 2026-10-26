@@ -1,0 +1,2 @@
+Python version: Python 3.13.0
+Operating system: Linux 6.6.97+ x86_64

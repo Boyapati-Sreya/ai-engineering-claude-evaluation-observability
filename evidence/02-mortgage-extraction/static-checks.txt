@@ -1,0 +1,8 @@
+===== Source: mortgage-mypy.txt =====
+Success: no issues found in 11 source files
+
+
+
+===== Source: mortgage-ruff.txt =====
+All checks passed!
+

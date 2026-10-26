@@ -1,0 +1,12 @@
+============================= test session starts ==============================
+platform linux -- Python 3.13.0, pytest-9.1.1, pluggy-1.6.0 -- /workspace/Build a Resilient Mortgage Document Extraction System/04-validate-mathematical-consistency/solution/.venv/bin/python3.13
+cachedir: .pytest_cache
+rootdir: /workspace/Build a Resilient Mortgage Document Extraction System/04-validate-mathematical-consistency/solution
+configfile: pyproject.toml
+plugins: anyio-4.15.1
+collecting ... collected 2 items
+
+tests/test_us04_validator.py::test_ac_04_02_consistent_when_within_tolerance PASSED [ 50%]
+tests/test_us04_validator.py::test_ac_04_02_inconsistent_when_beyond_tolerance PASSED [100%]
+
+============================== 2 passed in 1.76s ===============================

@@ -1,0 +1,7 @@
+51-        },
+52-        "id": "toolu_01QADxGcjq854tserFYLTnjL",
+53-        "input": {
+54:          "document_type": "appraisal",
+55-          "reason": "This is a Uniform Residential Appraisal Report (Form 1004) containing property valuation analysis through sales comparison and cost approaches, appraiser certification, and a final appraised market value of $410,000 for the subject property."
+56-        },
+57-        "name": "classify_document",
